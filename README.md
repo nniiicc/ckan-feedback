@@ -1,4 +1,4 @@
-ckanext-feedback
+ckan-feedback
 ================
 
 Fork of the [Natural History Museum's CKAN extension](https://github.com/NaturalHistoryMuseum/ckanext-feedback) for soliciting feedback on datasets. 
