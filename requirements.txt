@@ -1,1 +1,1 @@
--e git+https://github.com/NaturalHistoryMuseum/ckanext-contact.git#egg=ckanext-contact
+-e git+https://github.com/nniiicc/ckan-contact.git#egg=ckan-contact
